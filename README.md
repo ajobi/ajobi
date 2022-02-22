@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[StackOverflow](https://stackoverflow.com/users/7024402/ajobi?tab=profile)
+[Stack Overflow](https://stackoverflow.com/users/7024402/ajobi?tab=profile)
 
+[Figma Community](https://www.figma.com/@ajobi)
 
 <!--
 **ajobi/ajobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
