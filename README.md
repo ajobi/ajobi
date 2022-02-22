@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [Stack Overflow](https://stackoverflow.com/users/7024402/ajobi?tab=profile)
 
 [Figma Community](https://www.figma.com/@ajobi)
